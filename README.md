@@ -34,12 +34,5 @@ Este README proporciona información sobre un modelo de "Random Forest" entrenad
 | Accuracy | 0.696 |
 | F-measure | 0.696 |
 
-## Confusion Matrix
-
-| Predicted | derecha | izquierda |
-|---|---|---|
-| Actual | derecha | 296 | 91 |
-| izquierda | 152 | 262 |
-
 
 
